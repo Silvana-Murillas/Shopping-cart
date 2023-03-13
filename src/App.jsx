@@ -28,7 +28,7 @@ function App() {
 
     return (
         <CartProvider>
-            <div className="app">
+            <div className="w-screen flex flex-col items-center bg-gray-800 text-white snap-none">
                 <Cart />
                 <Header />
 
