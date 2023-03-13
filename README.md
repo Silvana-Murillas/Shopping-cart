@@ -4,7 +4,7 @@ Is a small project that consist in an shopping cart where you can filter product
 
 <h1> Technologies</h1>
 <ul><li>React</li>
-<li>CSS</li></ul>
+<li>Tailwind css</li></ul>
 
 To run the project:
 
